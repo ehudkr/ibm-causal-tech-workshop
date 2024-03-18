@@ -1,3 +1,2 @@
 causallib
-seaborn
 jupyterlab
